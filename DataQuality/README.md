@@ -4,7 +4,7 @@
 [HOME](https://github.com/bathai420/interview_data_quality/tree/main), 
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
 [Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md), 
-[DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md)
+[DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md),
 [FRAUD DATA](https://github.com/bathai420/interview_data_quality/blob/main/FraudData/README.md)
 
 Data Quality measures how well a data set perform checks for
@@ -36,8 +36,16 @@ In a data system, each entity should be recorded only once without duplication. 
 
 In a data environment, data can be stored in multiple locations, systems, or formats. As part of a data quality check, the goal is to ensure that the data is consistent across all systems. This means that values stored in different databases or files should match, and the data format and structure should be the same. We perform hash column consistency checks by creating a hash for each row on both the source and target using the SHA-5 function in SQL.
 
+**_Validity checks:_**
+
+Validity checks will check like
+
+1) SSN column, can not have any nulls
+
+2) Zip Code column, Zip code should be of length 5 charectors
+
 [HOME](https://github.com/bathai420/interview_data_quality/tree/main), 
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
 [Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md), 
-[DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md)
+[DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md), 
 [FRAUD DATA](https://github.com/bathai420/interview_data_quality/blob/main/FraudData/README.md)
