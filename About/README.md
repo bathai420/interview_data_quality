@@ -1,0 +1,25 @@
+# ABOUT ME
+
+<!-- TOC -->
+[HOME](https://github.com/bathai420/interview_data_quality/tree/main), 
+[DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md)
+
+Firstly, thank you for taking the time to meet with me today. As you may have already learned from my resume, I am pursuing my master's degree in Computer Science at the University of Bridgeport, Connecticut.
+
+1) I have over five years of experience working as a software and data quality engineer at Datagaps.
+2) Datagaps is a product-based company that has an in-house ETL validator tool for data validation, which can check for
+   1) timeliness,
+   2) completeness, and
+   3) accuracy.
+3) My first project at Datagaps as a Jr. software engineer, I contributed some UI components to the ETL validator tool using the angular framework, such as creating data source connections and defining data flows to define data quality checks. The ETL validator has its own database (postgress) where all UI-related information and DQ run results are stored. I built a report to display data quality results by extracting them from the ETL validator database.
+4) My second project at Datagaps, Datagaps have many clients (around 70), I got a chance to work with one of the client UNITED HEALTH CARE INSURANCE COMPANY, where I used ETL validator tool  to define and perform data quality validations on UHC data.
+   1) At UHC they have both Azure and AWS platforms. I happen to use there Azure Databricks notebooks to perform data analysis using SQL, and PYTHON
+   2) UnitedHealthCare has various types of data sources, including SQL Server, PostgreSQL, and file systems etc..
+   3) Although we primarily used the in-house ETL validator tool for data quality, I had to use Databricks notebooks for data analysis on the data that is stored in ADLS and Databricks Delta tables.
+
+With this experience, I decided to pursue a master's degree in Computer Science. As mentioned in my resume,
+1) I have completed my first project on an end-to-end full-stack application, which is a web user interface built using Angular framework.
+2) For my second project, I am currently working on a data science project to identify semantic data types. TODO: Which is in a very early stage, 1) I just drafted an initial thought using a research paper published by [MIT media Labs](https://sherlock.media.mit.edu/) 2) collected some sample data [(NYC YELLOW TAXI TRIP DATA)](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+
+[HOME](https://github.com/bathai420/interview_data_quality/tree/main), 
+[DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md)
