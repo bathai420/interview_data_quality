@@ -4,7 +4,8 @@
 [HOME](https://github.com/bathai420/interview_data_quality/tree/main), 
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
 [Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md), 
-[DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md)
+[DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md),
+[Data Quality](https://github.com/bathai420/interview_data_quality/blob/main/DataQuality/README.md)
 
 I am Interested in this role because, In past I have experience as a data quality engineer, so in my current masters project I choose to built symantic data type detection using data science model. So working at NFCU will help me to gain financial domain knowledge, Which will help me in my masters project
 
@@ -19,4 +20,5 @@ During my masters i completed an end to end full stack application, which is an 
 [HOME](https://github.com/bathai420/interview_data_quality/tree/main), 
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
 [Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md), 
-[DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md)
+[DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md),
+[Data Quality](https://github.com/bathai420/interview_data_quality/blob/main/DataQuality/README.md)

@@ -4,7 +4,8 @@
 [HOME](https://github.com/bathai420/interview_data_quality/tree/main), 
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
 [Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md), 
-[DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md)
+[DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md),
+[Data Quality](https://github.com/bathai420/interview_data_quality/blob/main/DataQuality/README.md)
 
 Firstly, thank you for taking the time to meet with me today. As you may have already learned from my resume, I am pursuing my master's degree in Computer Science at the University of Bridgeport, Connecticut.
 
@@ -27,4 +28,5 @@ With this experience, I decided to pursue a master's degree in Computer Science.
 [HOME](https://github.com/bathai420/interview_data_quality/tree/main), 
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
 [Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md), 
-[DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md)
+[DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md),
+[Data Quality](https://github.com/bathai420/interview_data_quality/blob/main/DataQuality/README.md)

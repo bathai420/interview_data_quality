@@ -3,7 +3,8 @@
 [HOME](https://github.com/bathai420/interview_data_quality/tree/main), 
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
 [Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md), 
-[DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md)
+[DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md),
+[Data Quality](https://github.com/bathai420/interview_data_quality/blob/main/DataQuality/README.md)
 
 Data governance refers to a set of policies, roles, and standards established in an organization to ensure the quality, security, accuracy, and usability of data throughout its lifecycle.
 
@@ -16,7 +17,7 @@ There are four pillars of data governance such as
       3) Example:
          1) Identify Patient/Member information across organization, define metadata for each element, and store centrally as a data catalog (data dictionary)
          2) Data governance defines who can see data, how can access, and when. Data management implements these policies with technical solutions to store, organize, and use the data.
-2) data quality:
+2) data quality: [Data Quality](https://github.com/bathai420/interview_data_quality/blob/main/DataQuality/README.md)
    1) It is a measure to check the condition of the data based on factors like timeliness, completeness, accuracy, and consistency
    2) Bad data quality impacts business and customer performance. It will lead into inaccurate insights, poor decision-making, waste of resources, and miss business opportunities.
    3) Example:
@@ -34,4 +35,5 @@ There are four pillars of data governance such as
 [HOME](https://github.com/bathai420/interview_data_quality/tree/main), 
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
 [Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md), 
-[DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md)
+[DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md),
+[Data Quality](https://github.com/bathai420/interview_data_quality/blob/main/DataQuality/README.md)
