@@ -1,5 +1,9 @@
 # Data Governance
 <!-- TOC -->
+[HOME](https://github.com/bathai420/interview_data_quality/tree/main), 
+[About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
+[Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md), 
+[DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md)
 
 Data governance refers to a set of policies, processes, roles, and standards established in an organization to ensure the quality, security, accuracy, and usability of data throughout its lifecycle.
 
@@ -26,3 +30,9 @@ There are four pillars of data governance such as
    2) Examples:
       1) In health care HIPAA compliance was created to safeguard the data and privacy of their patient personal medical information.
       2) ,  includes legal, ethical and professional standards that health care organizations and providers, including clinical research organizations (CROs), must follow in order to assure the safety and privacy of patients.
+
+
+[HOME](https://github.com/bathai420/interview_data_quality/tree/main), 
+[About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
+[Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md), 
+[DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md)
