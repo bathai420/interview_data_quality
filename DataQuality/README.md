@@ -48,6 +48,9 @@ Validity checks will check like
 
 2) Zip Code column, Zip code should be of length 5 charectors
 
+example for dq
+Analyse the target data using sql to check weather there are any nulls for the address column if i find any null values i document the percentage of null values for the target table and i also check the source table if it is a csv file i use python code using data frame to check the percentage of null.
+
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
 [Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md),
 [AMBIGUITY](https://github.com/bathai420/interview_data_quality/blob/main/Ambiguity/README.md),
