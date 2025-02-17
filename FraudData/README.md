@@ -1,9 +1,9 @@
 # FRAUD DATA
 
 <!-- TOC -->
-[HOME](https://github.com/bathai420/interview_data_quality/tree/main), 
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
-[Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md), 
+[Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md),
+[AMBIGUITY](https://github.com/bathai420/interview_data_quality/blob/main/Ambiguity/README.md),
 [DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md),
 [Data Quality](https://github.com/bathai420/interview_data_quality/blob/main/DataQuality/README.md)
 
@@ -18,8 +18,8 @@ examples for fraud quality checks
 5) multiple failed login attempts.
 6) multiple accounts using the same credit card.
 
-[HOME](https://github.com/bathai420/interview_data_quality/tree/main), 
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
-[Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md), 
+[Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md),
+[AMBIGUITY](https://github.com/bathai420/interview_data_quality/blob/main/Ambiguity/README.md),
 [DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md),
 [Data Quality](https://github.com/bathai420/interview_data_quality/blob/main/DataQuality/README.md)

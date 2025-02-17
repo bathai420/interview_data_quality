@@ -1,9 +1,9 @@
 # DATA QUALITY
 
 <!-- TOC -->
-[HOME](https://github.com/bathai420/interview_data_quality/tree/main), 
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
-[Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md), 
+[Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md),
+[AMBIGUITY](https://github.com/bathai420/interview_data_quality/blob/main/Ambiguity/README.md),
 [DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md),
 [FRAUD DATA](https://github.com/bathai420/interview_data_quality/blob/main/FraudData/README.md)
 
@@ -44,8 +44,8 @@ Validity checks will check like
 
 2) Zip Code column, Zip code should be of length 5 charectors
 
-[HOME](https://github.com/bathai420/interview_data_quality/tree/main), 
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
-[Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md), 
+[Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md),
+[AMBIGUITY](https://github.com/bathai420/interview_data_quality/blob/main/Ambiguity/README.md),
 [DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md), 
 [FRAUD DATA](https://github.com/bathai420/interview_data_quality/blob/main/FraudData/README.md)
