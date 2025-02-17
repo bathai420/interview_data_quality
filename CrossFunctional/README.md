@@ -8,7 +8,8 @@
 [Data Quality](https://github.com/bathai420/interview_data_quality/blob/main/DataQuality/README.md), 
 [FRAUD DATA](https://github.com/bathai420/interview_data_quality/blob/main/FraudData/README.md),
 [Work Environment](https://github.com/bathai420/interview_data_quality/blob/main/WorkEnvironment/README.md),
-[New Skill](https://github.com/bathai420/interview_data_quality/blob/main/NewSkill/README.md)
+[New Skill](https://github.com/bathai420/interview_data_quality/blob/main/NewSkill/README.md),
+[Cross-Functional](https://github.com/bathai420/interview_data_quality/blob/main/CrossFunctional/README.md)
 
 Previously, when I worked As a Data Quality Engineer, the very first step i take is to work closely with product owners to understand the business requirements. 
 
@@ -26,4 +27,6 @@ This collaborative approach helped the project move forward smoothly, and we suc
 [DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md),
 [Data Quality](https://github.com/bathai420/interview_data_quality/blob/main/DataQuality/README.md), 
 [FRAUD DATA](https://github.com/bathai420/interview_data_quality/blob/main/FraudData/README.md),
-[Work Environment](https://github.com/bathai420/interview_data_quality/blob/main/WorkEnvironment/README.md)
+[Work Environment](https://github.com/bathai420/interview_data_quality/blob/main/WorkEnvironment/README.md),
+[New Skill](https://github.com/bathai420/interview_data_quality/blob/main/NewSkill/README.md),
+[Cross-Functional](https://github.com/bathai420/interview_data_quality/blob/main/CrossFunctional/README.md)
