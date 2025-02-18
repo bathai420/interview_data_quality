@@ -11,7 +11,18 @@
 [New Skill](https://github.com/bathai420/interview_data_quality/blob/main/NewSkill/README.md),
 [Cross-Functional](https://github.com/bathai420/interview_data_quality/blob/main/CrossFunctional/README.md)
 
-As an intern My main task was to support the team on various projects while learning new skills and where team members communicated openly, feedback was encouraged, and there was always an opportunity to ask questions and grow.
+I will start with my past experience
+
+1) I use to have daily sprint meetings as we follow agile methodology.
+2) I also have a daily call with client to update data quality testing to discuss if any rules failed next steps.
+3) I collaborate with other teams like reporting
+
+In my next job i look for
+
+1) Collaborative atmosphere.
+2) I prefer open communication.
+3) Team that i can seek guidance and support when needed.
+4) Positive and supportive culture.
 
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
 [Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md),
