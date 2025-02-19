@@ -30,7 +30,7 @@ There are four pillars of data governance such as
    1) It is a measure to check the condition of the data based on factors like timeliness, completeness, accuracy, and consistency
    2) Bad data quality impacts business and customer performance. It will lead into inaccurate insights, poor decision-making, waste of resources, and miss business opportunities.
    3) Example:
-      1) In one of my project, Patient address and provider address has an important role to place patients in-care, by identify the nearby provider. We implemented data quality check on address attributes and communicated with insurance company to fix the issue and send clean data
+      1) In one of my project, Patient address and provider address has an important role to place patients in-care, to identify the nearby provider. We implemented data quality check on address attributes and communicated with insurance company to fix the issue and send clean data
 3) data security:
    1) Data security protects data, decides who should have access to the data.
    2) Some information is extremely private (example: SSN, Address, Medical record number, Account number, Phone numbers, etc..) and need access to specific users. By having correct access controls inplace.
