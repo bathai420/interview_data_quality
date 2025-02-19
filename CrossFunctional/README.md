@@ -13,7 +13,8 @@
 [Issues](https://github.com/bathai420/interview_data_quality/blob/main/Issues/README.md),
 [Projects](https://github.com/bathai420/interview_data_quality/blob/main/Projects/README.md),
 [Questions](https://github.com/bathai420/interview_data_quality/blob/main/Questions/README.md),
-[Mistake](https://github.com/bathai420/interview_data_quality/blob/main/Mistake/README.md)
+[Mistake](https://github.com/bathai420/interview_data_quality/blob/main/Mistake/README.md),
+[Conflict](https://github.com/bathai420/interview_data_quality/blob/main/Conflict/README.md)
 
 Previously, when I worked As a Data Quality Engineer, the very first step i take is to work closely with product owners to understand the business requirements. 
 
@@ -37,4 +38,5 @@ This collaborative approach helped the project move forward smoothly, and we suc
 [Issues](https://github.com/bathai420/interview_data_quality/blob/main/Issues/README.md),
 [Projects](https://github.com/bathai420/interview_data_quality/blob/main/Projects/README.md),
 [Questions](https://github.com/bathai420/interview_data_quality/blob/main/Questions/README.md),
-[Mistake](https://github.com/bathai420/interview_data_quality/blob/main/Mistake/README.md)
+[Mistake](https://github.com/bathai420/interview_data_quality/blob/main/Mistake/README.md),
+[Conflict](https://github.com/bathai420/interview_data_quality/blob/main/Conflict/README.md)

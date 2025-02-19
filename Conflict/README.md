@@ -1,6 +1,6 @@
-# Questions:
+# CONFLICT
 
-<!-- TOC -->
+<!-- TOC --> 
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
 [Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md),
 [AMBIGUITY](https://github.com/bathai420/interview_data_quality/blob/main/Ambiguity/README.md),
@@ -13,11 +13,13 @@
 [Issues](https://github.com/bathai420/interview_data_quality/blob/main/Issues/README.md),
 [Projects](https://github.com/bathai420/interview_data_quality/blob/main/Projects/README.md),
 [Questions](https://github.com/bathai420/interview_data_quality/blob/main/Questions/README.md),
-[Mistake](https://github.com/bathai420/interview_data_quality/blob/main/Mistake/README.md)
+[Mistake](https://github.com/bathai420/interview_data_quality/blob/main/Mistake/README.md),
+[Conflict](https://github.com/bathai420/interview_data_quality/blob/main/Conflict/README.md)
 
-1) Can you please share any current challenges you have in your Data.
-2) What would be the data volume look like in NFCU
-3) Can you tell me more about how NFCU is handling Fraud detection.
+
+When faced with conflict, I prioritize open communication. 
+
+I setup a call with the person i have conflict with, try to understand his point of view and explain my point of view from this we try to understand which one is aliged close to business needs and try to adopt it.
 
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
 [Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md),

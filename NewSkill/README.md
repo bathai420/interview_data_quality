@@ -25,7 +25,7 @@ to learn new skill I broke down the learning process into manageable steps, firs
 
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
 [Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md),
-[AMBIGUITY](https://github.com/bathai420/interview_data_quality/blob/main/Ambigentranceuity/README.md),
+[AMBIGUITY](https://github.com/bathai420/interview_data_quality/blob/main/Ambiguity/README.md),
 [DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md),
 [Data Quality](https://github.com/bathai420/interview_data_quality/blob/main/DataQuality/README.md), 
 [FRAUD DATA](https://github.com/bathai420/interview_data_quality/blob/main/FraudData/README.md),
@@ -35,4 +35,5 @@ to learn new skill I broke down the learning process into manageable steps, firs
 [Issues](https://github.com/bathai420/interview_data_quality/blob/main/Issues/README.md),
 [Projects](https://github.com/bathai420/interview_data_quality/blob/main/Projects/README.md),
 [Questions](https://github.com/bathai420/interview_data_quality/blob/main/Questions/README.md),
-[Mistake](https://github.com/bathai420/interview_data_quality/blob/main/Mistake/README.md)
+[Mistake](https://github.com/bathai420/interview_data_quality/blob/main/Mistake/README.md),
+[Conflict](https://github.com/bathai420/interview_data_quality/blob/main/Conflict/README.md)

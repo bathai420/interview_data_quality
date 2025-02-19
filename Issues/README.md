@@ -14,6 +14,12 @@
 [Projects](https://github.com/bathai420/interview_data_quality/blob/main/Projects/README.md),
 [Questions](https://github.com/bathai420/interview_data_quality/blob/main/Questions/README.md)
 
+I acknowledge the challenges
+1) I recognize that challenges are expected in any role
+2) I have an ability to stay calm in the situation.
+ 
+I consider all options to deal the challenge and discuss tem with my lead and client and more forward to handle the challenge.
+
 One of the issue or challenge I can share is, In one of the client project, they were migrating the data from on-prem to cloud. We were asked to validate/compare the data is migrated properly. We had a callenge to compare large datasets between source and target (due to not having enough compute and long-running jobs), in this situation we took an iterative approach to validate data in smaller chunks
 
 Optional:
@@ -47,4 +53,5 @@ select row_hash from target_table;
 [Issues](https://github.com/bathai420/interview_data_quality/blob/main/Issues/README.md),
 [Projects](https://github.com/bathai420/interview_data_quality/blob/main/Projects/README.md),
 [Questions](https://github.com/bathai420/interview_data_quality/blob/main/Questions/README.md),
-[Mistake](https://github.com/bathai420/interview_data_quality/blob/main/Mistake/README.md)
+[Mistake](https://github.com/bathai420/interview_data_quality/blob/main/Mistake/README.md),
+[Conflict](https://github.com/bathai420/interview_data_quality/blob/main/Conflict/README.md)
