@@ -14,18 +14,15 @@
 [Projects](https://github.com/bathai420/interview_data_quality/blob/main/Projects/README.md),
 [Questions](https://github.com/bathai420/interview_data_quality/blob/main/Questions/README.md)
 
-I will start with my past experience
+I will start with my past experience to give you an idea of the environments I’ve worked.
 
-1) I use to have daily sprint meetings as we follow agile methodology.
-2) I also have a daily call with client to update data quality testing to discuss if any rules failed next steps.
-3) I collaborate with other teams like reporting
+In my previous role, we followed the agile methodology, so I use to have daily sprint meetings where we discussed progress, and roadblocks. This helped keep everyone focused on the goals. 
 
-In my next job i look for
+Additionally, I had daily calls with clients to update them on data quality testing, discuss any rules that failed, and plan the next steps. This regular communication ensured transparency and built trust with the client.
 
-1) Collaborative atmosphere.
-2) I prefer open communication.
-3) Team that i can seek guidance and support when needed.
-4) Positive and supportive culture.
+I also frequently collaborated with other teams, such as the reporting team, to ensure that the data we were validating met their requirements. This cross-functional collaboration was key to delivering high-quality results.
+
+Moving forward, in my next job, I’m looking for a collaborative atmosphere where teamwork is encouraged. I prefer open communication, where everyone feels comfortable sharing ideas and feedback. I also value being part of a team where I can seek guidance and support when needed, as I believe that’s how we grow and succeed together.
 
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
 [Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md),
