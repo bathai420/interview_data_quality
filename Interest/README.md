@@ -9,7 +9,10 @@
 [FRAUD DATA](https://github.com/bathai420/interview_data_quality/blob/main/FraudData/README.md),
 [Work Environment](https://github.com/bathai420/interview_data_quality/blob/main/WorkEnvironment/README.md),
 [New Skill](https://github.com/bathai420/interview_data_quality/blob/main/NewSkill/README.md),
-[Cross-Functional](https://github.com/bathai420/interview_data_quality/blob/main/CrossFunctional/README.md)
+[Cross-Functional](https://github.com/bathai420/interview_data_quality/blob/main/CrossFunctional/README.md),
+[Issues](https://github.com/bathai420/interview_data_quality/blob/main/Issues/README.md),
+[Projects](https://github.com/bathai420/interview_data_quality/blob/main/Projects/README.md),
+[Questions](https://github.com/bathai420/interview_data_quality/blob/main/Questions/README.md)
 
 I am Interested in this role because, In past I have experience as a data quality engineer, so in my current masters project I choose to built symantic data type detection using data science model. So working at NFCU will help me to gain financial domain knowledge, Which will help me in my masters project
 
@@ -29,4 +32,7 @@ During my masters i completed an end to end full stack application, which is an 
 [FRAUD DATA](https://github.com/bathai420/interview_data_quality/blob/main/FraudData/README.md),
 [Work Environment](https://github.com/bathai420/interview_data_quality/blob/main/WorkEnvironment/README.md),
 [New Skill](https://github.com/bathai420/interview_data_quality/blob/main/NewSkill/README.md),
-[Cross-Functional](https://github.com/bathai420/interview_data_quality/blob/main/CrossFunctional/README.md)
+[Cross-Functional](https://github.com/bathai420/interview_data_quality/blob/main/CrossFunctional/README.md),
+[Issues](https://github.com/bathai420/interview_data_quality/blob/main/Issues/README.md),
+[Projects](https://github.com/bathai420/interview_data_quality/blob/main/Projects/README.md),
+[Questions](https://github.com/bathai420/interview_data_quality/blob/main/Questions/README.md)

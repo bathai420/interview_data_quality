@@ -1,6 +1,19 @@
 # Projects in Datagaps
 <!-- TOC --> 
 
+[About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
+[Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md),
+[AMBIGUITY](https://github.com/bathai420/interview_data_quality/blob/main/Ambiguity/README.md),
+[DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md),
+[Data Quality](https://github.com/bathai420/interview_data_quality/blob/main/DataQuality/README.md), 
+[FRAUD DATA](https://github.com/bathai420/interview_data_quality/blob/main/FraudData/README.md),
+[Work Environment](https://github.com/bathai420/interview_data_quality/blob/main/WorkEnvironment/README.md),
+[New Skill](https://github.com/bathai420/interview_data_quality/blob/main/NewSkill/README.md),
+[Cross-Functional](https://github.com/bathai420/interview_data_quality/blob/main/CrossFunctional/README.md),
+[Issues](https://github.com/bathai420/interview_data_quality/blob/main/Issues/README.md),
+[Projects](https://github.com/bathai420/interview_data_quality/blob/main/Projects/README.md),
+[Questions](https://github.com/bathai420/interview_data_quality/blob/main/Questions/README.md)
+
 #### Data Quality Engineer - Datagaps inc - Feb 2021 to Sep 2023
 #### Client: United Health Care
 
@@ -20,4 +33,15 @@ We have integrated the data quality results captured by ETL Validator into a rep
 
 OPTIONAL: We have also done few other validations like timeliness, completeness and consistency
 
-
+[About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
+[Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md),
+[AMBIGUITY](https://github.com/bathai420/interview_data_quality/blob/main/Ambiguity/README.md),
+[DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md),
+[Data Quality](https://github.com/bathai420/interview_data_quality/blob/main/DataQuality/README.md), 
+[FRAUD DATA](https://github.com/bathai420/interview_data_quality/blob/main/FraudData/README.md),
+[Work Environment](https://github.com/bathai420/interview_data_quality/blob/main/WorkEnvironment/README.md),
+[New Skill](https://github.com/bathai420/interview_data_quality/blob/main/NewSkill/README.md),
+[Cross-Functional](https://github.com/bathai420/interview_data_quality/blob/main/CrossFunctional/README.md),
+[Issues](https://github.com/bathai420/interview_data_quality/blob/main/Issues/README.md),
+[Projects](https://github.com/bathai420/interview_data_quality/blob/main/Projects/README.md),
+[Questions](https://github.com/bathai420/interview_data_quality/blob/main/Questions/README.md)

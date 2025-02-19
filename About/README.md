@@ -9,7 +9,10 @@
 [FRAUD DATA](https://github.com/bathai420/interview_data_quality/blob/main/FraudData/README.md),
 [Work Environment](https://github.com/bathai420/interview_data_quality/blob/main/WorkEnvironment/README.md),
 [New Skill](https://github.com/bathai420/interview_data_quality/blob/main/NewSkill/README.md),
-[Cross-Functional](https://github.com/bathai420/interview_data_quality/blob/main/CrossFunctional/README.md)
+[Cross-Functional](https://github.com/bathai420/interview_data_quality/blob/main/CrossFunctional/README.md),
+[Issues](https://github.com/bathai420/interview_data_quality/blob/main/Issues/README.md),
+[Projects](https://github.com/bathai420/interview_data_quality/blob/main/Projects/README.md),
+[Questions](https://github.com/bathai420/interview_data_quality/blob/main/Questions/README.md)
 
 Firstly, thank you for taking the time to meet with me today. As you may have already learned from my resume, I am pursuing my master's degree in Computer Science at the University of Bridgeport, Connecticut.
 
@@ -37,4 +40,7 @@ With this experience, I decided to pursue a master's degree in Computer Science.
 [FRAUD DATA](https://github.com/bathai420/interview_data_quality/blob/main/FraudData/README.md),
 [Work Environment](https://github.com/bathai420/interview_data_quality/blob/main/WorkEnvironment/README.md),
 [New Skill](https://github.com/bathai420/interview_data_quality/blob/main/NewSkill/README.md),
-[Cross-Functional](https://github.com/bathai420/interview_data_quality/blob/main/CrossFunctional/README.md)
+[Cross-Functional](https://github.com/bathai420/interview_data_quality/blob/main/CrossFunctional/README.md),
+[Issues](https://github.com/bathai420/interview_data_quality/blob/main/Issues/README.md),
+[Projects](https://github.com/bathai420/interview_data_quality/blob/main/Projects/README.md),
+[Questions](https://github.com/bathai420/interview_data_quality/blob/main/Questions/README.md)
