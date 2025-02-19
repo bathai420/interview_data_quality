@@ -50,7 +50,7 @@ Validity checks will check like
 
 1) SSN column, can not have any nulls
 
-2) Zip Code column, Zip code should be of length 5 charectors
+2) Zip Code column, Zip code should be of length 5 characters
 
 example for dq
 
