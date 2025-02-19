@@ -54,7 +54,7 @@ Validity checks will check like
 
 example for dq
 
-In one of my project, Patient address and provider address has an important role to place patients in-care, to identify the nearby provider.
+In one of my project, Patient address and provider address has an important role to place patients in-care. In order to place a patient in-care we need to identify the nearby provider who is close to the patient address/location.
 
 Analyse the target data using sql to check weather there are any nulls for the address column if i find any null values i document the percentage of null values for the target table and i also check the source table if it is a csv file i use python code using data frame to check the percentage of null.
 
