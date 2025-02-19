@@ -21,7 +21,7 @@ Iam committed to continuous learning to maximize my value to the team and drive 
 
 As i had to support various clients in my previous work space, I had to learn how to use different databases like postgres, mysql, sql server, oracle
 
-to learn new skill I broke down the learning process into manageable steps, first do research on internet, watching tutorials, then practicing on small tasks, and seeking feedback from colleagues.
+to learn new skill I broke down the learning process into manageable steps, first do research on internet, watching tutorials, write down notes, then practicing on small tasks, and seeking feedback from colleagues  and also spend 30 to 40 min towards learning new skills.
 
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
 [Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md),
