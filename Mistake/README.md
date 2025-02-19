@@ -1,4 +1,4 @@
-# CROSS FUNCTIONAL
+# Mistake
 
 <!-- TOC --> 
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
@@ -15,15 +15,11 @@
 [Questions](https://github.com/bathai420/interview_data_quality/blob/main/Questions/README.md),
 [Mistake](https://github.com/bathai420/interview_data_quality/blob/main/Mistake/README.md)
 
-Previously, when I worked As a Data Quality Engineer, the very first step i take is to work closely with product owners to understand the business requirements. 
+In a previous project, I was responsible for generating a weekly report for a client. Due to a miscommunication, I used an outdated dataset, which led to incorrect insights being shared.
 
-My second step is to ensure that the data pipelines built by data engineers cover various scenarios such as timeliness, accuracy and completness of the data. 
+My task was to ensure the report was accurate and delivered on time. However, the mistake impacted the client’s decision-making process.
 
-Later, i document all the information and present it to the data engineering team and business owners, highlighting any findings that need to be addressed. 
-
-If they are not resolved the business owners will escalate them to the next step. 
-
-This collaborative approach helped the project move forward smoothly, and we successfully met the deadlines.
+As soon as I realized the error, I immediately informed my manager and the client. I worked overtime to regenerate the report using the correct dataset and delivered it within 24 hours. I also set up a meeting with the client to explain the mistake and present the corrected insights.
 
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
 [Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md),

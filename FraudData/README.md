@@ -36,4 +36,5 @@ examples for fraud quality checks
 [Cross-Functional](https://github.com/bathai420/interview_data_quality/blob/main/CrossFunctional/README.md),
 [Issues](https://github.com/bathai420/interview_data_quality/blob/main/Issues/README.md),
 [Projects](https://github.com/bathai420/interview_data_quality/blob/main/Projects/README.md),
-[Questions](https://github.com/bathai420/interview_data_quality/blob/main/Questions/README.md)
+[Questions](https://github.com/bathai420/interview_data_quality/blob/main/Questions/README.md),
+[Mistake](https://github.com/bathai420/interview_data_quality/blob/main/Mistake/README.md)
