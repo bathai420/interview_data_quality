@@ -15,7 +15,7 @@
 [Questions](https://github.com/bathai420/interview_data_quality/blob/main/Questions/README.md),
 [Mistake](https://github.com/bathai420/interview_data_quality/blob/main/Mistake/README.md)
 
-Firstly, thank you for taking the time to meet with me today. As you may have already learned from my resume, I am pursuing my master's degree in Computer Science at the University of Bridgeport, Connecticut.
+Firstly, thank you for taking the time to meet with me today. As you may have already learned from my resume, I am pursuing my master's degree in Computer Science at the University of Bridgeport, in Connecticut.
 
 1) I have over five years of experience working as a software and data quality engineer at Datagaps.
 2) Datagaps is a product-based company that has an in-house ETL validator tool for data validation, which can check for
@@ -28,10 +28,23 @@ Firstly, thank you for taking the time to meet with me today. As you may have al
    2) UnitedHealthCare has various types of data sources, including SQL Server, PostgreSQL, and file systems etc..
    3) Although we primarily used the in-house ETL validator tool for data quality, I had to use Databricks notebooks for data analysis on the data that is stored in ADLS and Databricks Delta tables.
 
-With this experience, I decided to pursue a master's degree in Computer Science. As mentioned in my resume,
-1) I have completed my first project on an end-to-end full-stack application, which is a web user interface built using Angular framework.
+With this experience, I decided to pursue a master's degree in Computer Science. Where I have enrolled and completed courses like
+- Object-Oriented Programming Concepts
+- Algorithms
+- Cloud Computing
+- Deep Learning
+- Data Computer Communications
+- Python for Data Sciences
+
+As mentioned in my resume, I have also worked on course projects:
+1) As my first project, I built an end-to-end full-stack application, which is a web user interface built using Angular framework.
 2) For my second project, I am currently working on a data science project to identify [semantic data types](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md#:~:text=Symantic%20data%20type%20detection%20can,of%20charactors%2C%20and%20email%20addresses).
-3) TODO: Which is in a very early stage, 1) I just drafted an initial thought using a research paper published by [MIT media Labs](https://sherlock.media.mit.edu/) 2) collected some sample data [(NYC YELLOW TAXI TRIP DATA)](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+TODO: Which is in a very early stage, 1) I just drafted an initial thought using a research paper published by [MIT media Labs](https://sherlock.media.mit.edu/) 2) collected some sample data [(NYC YELLOW TAXI TRIP DATA)](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page)
+
+**And also, I have completed Azure Certification on " Azure Fundamentals " - Where I got lots of exposure to Azure tools.**
+
+That's my background at high level.
+
 
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
 [Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md),
