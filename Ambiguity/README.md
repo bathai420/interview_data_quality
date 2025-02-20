@@ -20,7 +20,7 @@ When faced with uncertainty, it is crucial to identify the situation and explore
 
 I had to rely on my skill set to make the best decision, even without having all the necessary information. 
 
-For example,In past i had a task to do a data quality check between source and target - i realized one of the columns had insufficient data, so I reached out to the client to review the source and resend the complete data. 
+For example,In past I had a task to do a data quality check between source and target - i realized one of the columns had insufficient data, so I reached out to the client to review the source and resend the complete data. 
 However, this process took longer than expected. To meet the deadline, I had to reduce my scope (from 50 columns to 46 columns)of work, after discussing the situation with my lead and the business owner.
 
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
