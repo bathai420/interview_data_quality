@@ -43,7 +43,7 @@ TODO: Which is in a very early stage, 1) I just drafted an initial thought using
 
 **And also, I have completed Azure Certification on " Azure Fundamentals " - Where I got lots of exposure to Azure tools.**
 
-That's my background at high level.
+That's my background at high level. 
 
 
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
