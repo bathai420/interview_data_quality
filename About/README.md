@@ -14,7 +14,8 @@
 [Projects](https://github.com/bathai420/interview_data_quality/blob/main/Projects/README.md),
 [Questions](https://github.com/bathai420/interview_data_quality/blob/main/Questions/README.md),
 [Mistake](https://github.com/bathai420/interview_data_quality/blob/main/Mistake/README.md),
-[COTA](https://github.com/bathai420/interview_data_quality/blob/main/COTA/README.md)
+[COTA](https://github.com/bathai420/interview_data_quality/blob/main/COTA/README.md),
+[JOINs](https://github.com/bathai420/interview_data_quality/blob/main/Joins/README.md)
 
 Firstly, thank you for taking the time to meet with me today. As you may have already learned from my resume, I am pursuing my master's degree in Computer Science at the University of Bridgeport, in Connecticut.
 
