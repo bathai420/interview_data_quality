@@ -16,15 +16,18 @@
 [COTA](https://github.com/bathai420/interview_data_quality/blob/main/COTA/README.md),
 [JOINs](https://github.com/bathai420/interview_data_quality/blob/main/Joins/README.md)
 
-(INNER) JOIN: Returns records that have matching values in both tables
+1) (INNER) JOIN: Returns records that have matching values in both tables
 (only care about records that exist in both tables (e.g., active employees who are assigned to departments).)
-LEFT (OUTER) JOIN: Returns all records from the left table, and the matched records from the right table
+
+2) LEFT (OUTER) JOIN: Returns all records from the left table, and the matched records from the right table
 (want everything from the left side (employees), and any matching data on the right.
  Useful in HR, payroll, or performance reviews — even if some employees are "between departments.")
-RIGHT (OUTER) JOIN: Returns all records from the right table, and the matched records from the left table
+
+3) RIGHT (OUTER) JOIN: Returns all records from the right table, and the matched records from the left table
 (primary focus is the right-hand table (departments), and you want to show related data if available.
  Useful for analyzing department readiness or resource allocation, even if some teams are unstaffed.)
-FULL (OUTER) JOIN: Returns all records when there is a match in either left or right table
+ 
+4) FULL (OUTER) JOIN: Returns all records when there is a match in either left or right table
 (want a complete picture — matched and unmatched records from both sides.
 Useful in data validation, migration, or cleanup.)
 
