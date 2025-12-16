@@ -1,4 +1,4 @@
-# ABOUT ME
+# Framework
 
 <!-- TOC --> 
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
@@ -7,7 +7,7 @@
 [Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md),
 [AMBIGUITY](https://github.com/bathai420/interview_data_quality/blob/main/Ambiguity/README.md),
 [DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md),
-[Data Quality](https://github.com/bathai420/interview_data_quality/blob/main/DataQuality/README.md), 
+[Data Quality](https://github.com/bathai420/interview_data_quality/blob/main/DataQuality/README.md),
 [FRAUD DATA](https://github.com/bathai420/interview_data_quality/blob/main/FraudData/README.md),
 [Work Environment](https://github.com/bathai420/interview_data_quality/blob/main/WorkEnvironment/README.md),
 [New Skill](https://github.com/bathai420/interview_data_quality/blob/main/NewSkill/README.md),
@@ -20,15 +20,13 @@
 [JOINs](https://github.com/bathai420/interview_data_quality/blob/main/Joins/README.md),
 [DataAnalysis](https://github.com/bathai420/interview_data_quality/blob/main/DataAnalysis/README.md)
 
-Thank you for taking the time to speak with me today.
-
-1) I’m a QA Automation Engineer with over 6 years of experience designing automation frameworks for enterprise data platforms.
-2) I have specialized in Playwright with TypeScript, using Page Object Model and BDD(Behavior-Driven Development) with Cucumber, and have hands-on experience with tools like Selenium, Rest Assured, Postman, and SQL. 
-3) We have integrated automation into CI/CD pipelines using Jenkins, with reporting through Cucumber. 
-4) The application I worked on was an ETL-based DataOps platform. My role was to ensure that data was extracted, transformed, and loaded correctly across enterprise pipelines. 
-5) I validated the UI where users configured ETL workflows, and I also tested backend APIs and databases to ensure transformations, mappings, and data loads produced accurate and consistent results end to end. 
-6) I’ve automated over 1,500 scenarios, reduced manual regression effort by 60–70%, and helped cut production-critical defects by shifting validation earlier in the pipeline.
-7) I have good exposure on agile base systems, and I have been using jira, zoho for bug reporting, and we have 2 weeks of sprint, so I know how to work with sprint closely working with different stakeholders
+1) I’ve been working on a Playwright-based automation framework built with TypeScript, designed for enterprise-level applications.
+2) At a high level, the framework follows a centralized configuration, environment-based execution, cross-browser support, and parallel execution to reduce overall execution time.
+3) We follow a BDD approach using Cucumber and Gherkin, which makes scenarios business-readable and improves collaboration between QA, developers, and stakeholders.
+4) For UI automation, the framework follows Page Object Model where pages contain locators and actions, step definitions handle assertions using these actions, and feature files define business-readable scenarios. 
+5) The framework also integrates API automation using Playwright’s API capabilities. We validate REST and GraphQL APIs, handle authentication flows, and use APIs for test data seeding, which enables efficient end-to-end validation. 
+6) For reporting, we use Cucumber reports that provide detailed execution results, step-level status, screenshots on failure, and logs. These reports are easily consumable by both technical and non-technical stakeholders and are integrated into CI/CD pipelines like Jenkins. 
+7) Overall, the framework has significantly reduced flaky tests, improved execution stability, and provided faster feedback. I’ve actively contributed to framework design, BDD implementation, locator stability, API integration, reporting, and CI pipeline support.
 
 
 [About](https://github.com/bathai420/interview_data_quality/blob/main/About/README.md),
@@ -37,7 +35,7 @@ Thank you for taking the time to speak with me today.
 [Interest](https://github.com/bathai420/interview_data_quality/blob/main/Interest/README.md),
 [AMBIGUITY](https://github.com/bathai420/interview_data_quality/blob/main/Ambiguity/README.md),
 [DATA GOVERNANCE](https://github.com/bathai420/interview_data_quality/blob/main/DataGovernance/README.md),
-[Data Quality](https://github.com/bathai420/interview_data_quality/blob/main/DataQuality/README.md), 
+[Data Quality](https://github.com/bathai420/interview_data_quality/blob/main/DataQuality/README.md),
 [FRAUD DATA](https://github.com/bathai420/interview_data_quality/blob/main/FraudData/README.md),
 [Work Environment](https://github.com/bathai420/interview_data_quality/blob/main/WorkEnvironment/README.md),
 [New Skill](https://github.com/bathai420/interview_data_quality/blob/main/NewSkill/README.md),
